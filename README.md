@@ -1,2 +1,2 @@
-# WiremockPtoject
-Testing with Wiremock 
+# Cypress Ptoject
+Testing with Cypress
